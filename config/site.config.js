@@ -52,9 +52,10 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
+      name: 'GitHub',
+      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
     },
   ],
-
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
   // without timezone and replacing T with space.
